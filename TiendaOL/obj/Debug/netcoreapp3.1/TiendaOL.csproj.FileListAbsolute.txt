@@ -1,0 +1,66 @@
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.exe
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.deps.json
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.json
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.dev.json
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.AssemblyReference.cache
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfoInputs.cache
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfo.cs
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.CoreCompileInputs.cache
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\nyko-\Documents\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\0_INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.genruntimeconfig.cache
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.exe
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.deps.json
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.json
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.dev.json
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.dll
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.pdb
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csprojAssemblyReference.cache
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfoInputs.cache
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfo.cs
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.CoreCompileInputs.cache
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.dll
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.pdb
+D:\Documentos\Facultad\Facultad\Programacion orientada a objetos\TP integrador\Codigo del TPInt\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.genruntimeconfig.cache
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.exe
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.deps.json
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.json
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.dev.json
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csprojAssemblyReference.cache
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfoInputs.cache
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfo.cs
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.CoreCompileInputs.cache
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\JC\Desktop\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.genruntimeconfig.cache
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.exe
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.deps.json
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.json
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.dev.json
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.dll
+D:\Descargas\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.pdb
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csprojAssemblyReference.cache
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfoInputs.cache
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfo.cs
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.CoreCompileInputs.cache
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.dll
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.pdb
+D:\Descargas\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.genruntimeconfig.cache
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.exe
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.deps.json
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.json
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.runtimeconfig.dev.json
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\bin\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.AssemblyReference.cache
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfoInputs.cache
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.AssemblyInfo.cs
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.csproj.CoreCompileInputs.cache
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.dll
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.pdb
+C:\Users\nyko-\Documentos\FACULTAD\8.1er semestre 2021\PROGRAMACION ORIETADA A OBJETO (postgrado)\TP12 INTEGRADOR\TiendaOL\TiendaOL\obj\Debug\netcoreapp3.1\TiendaOL.genruntimeconfig.cache

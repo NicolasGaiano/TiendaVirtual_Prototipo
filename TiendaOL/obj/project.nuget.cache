@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDIiRuDjXWFzfrMTzuTnLRlEUn0dRMmNJAUJr9wbjvC36GDt8MCJHp2AcIcFQoLKtK3TU8FaRmWrk4sc5XB7Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nyko-\\Documentos\\FACULTAD\\8.1er semestre 2021\\PROGRAMACION ORIETADA A OBJETO (postgrado)\\TP12 INTEGRADOR\\TiendaOL\\TiendaOL\\TiendaOL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyko-\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
